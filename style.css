@@ -1,0 +1,53 @@
+ul {
+
+    list-style-type: none;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color:white;
+    width: 50%;
+
+}
+
+li {
+
+    float: left;
+
+}
+
+li a {
+
+    display: block;
+    color: blue;
+    background-color: lightcyan;
+    font-weight: bold;
+    text-align: center;
+    padding: 14px 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+
+}
+
+li a:hover:not(.active) {
+
+    background-color: lightcyan;
+    color: blue;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+img.imgm {
+
+    margin: 0 auto;
+
+}
+
+img.left {
+
+    float: right;
+
+}
+
+td.middle {
+    
+}
