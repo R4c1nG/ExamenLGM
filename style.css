@@ -38,7 +38,9 @@ li a:hover:not(.active) {
 
 img.imgm {
 
-    margin: 0 auto;
+    display: block;
+    margin-left: 120px;
+    width: 66%;
 
 }
 
@@ -49,5 +51,20 @@ img.left {
 }
 
 td.middle {
-    
+    display: block;
+    margin-left: 120px;
+    width: 66%;
+}
+
+p.center {
+    text-align: center;
+    color: blue;
+}
+
+p.bcolor {
+    background-color: cyan;
+}
+
+iframe {
+    margin: 0 auto;
 }
