@@ -21,7 +21,7 @@ li a {
     background-color: lightcyan;
     font-weight: bold;
     text-align: center;
-    padding: 14px 16px;
+    padding: 2px 40px;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
 
@@ -29,7 +29,7 @@ li a {
 
 li a:hover:not(.active) {
 
-    background-color: lightcyan;
+    background-color: darkblue;
     color: blue;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
@@ -59,6 +59,7 @@ td.middle {
 p.center {
     text-align: center;
     color: blue;
+    font-size: 17px;
 }
 
 p.aside {
@@ -75,7 +76,7 @@ footer {
 }
 
 iframe.fixmap {
-    margin-left: 23%
+    margin-left: 33%
 }
 
 img.fiximg {
